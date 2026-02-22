@@ -1,0 +1,4 @@
+tests/LoginTest.class
+base/BaseTest.class
+tests/CheckoutTest.class
+tests/AddToCartTest.class
