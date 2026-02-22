@@ -15,7 +15,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Checkout your GitHub repo
-                git branch: 'main', url: 'https://github.com/YourUsername/selenium-tests.git'
+                git branch: 'main', url: 'https://github.com/Rajnandini-01/E-commerce'
             }
         }
 
